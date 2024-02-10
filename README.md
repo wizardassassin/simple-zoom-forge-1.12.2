@@ -1,2 +1,2 @@
-# forge-mixin-example
-An example for using Mixin in Minecraft Forge
+# simple-zoom-forge-1.12.2
+Simple zoom mod.
