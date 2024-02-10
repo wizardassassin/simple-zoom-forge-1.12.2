@@ -1,7 +1,7 @@
 {
     "compatibilityLevel": "JAVA_8",
-    "package": "com.yourname.modid.mixin",
-    "refmap": "refmap.example.json",
+    "package": "com.wizard_assassin.simple_zoom.mixin",
+    "refmap": "refmap.simple-zoom.json",
     "mixins": [],
     "client": ["MixinMinecraft"],
     "server": []
