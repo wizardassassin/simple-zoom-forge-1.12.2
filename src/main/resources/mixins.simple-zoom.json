@@ -3,6 +3,6 @@
     "package": "com.wizard_assassin.simple_zoom.mixin",
     "refmap": "refmap.simple-zoom.json",
     "mixins": [],
-    "client": ["MixinMinecraft"],
+    "client": ["EntityRendererMixin"],
     "server": []
 }
